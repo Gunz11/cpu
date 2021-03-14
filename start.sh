@@ -3,7 +3,11 @@
 
 chmod +x cpuminer-sse2
 
-./cpuminer-sse2 -a yespowersugar -o stratum+tcp://stratum-asia.rplant.xyz:7042 -u sugar1qgc3uymavtjztjprfhk4knt73ccprl8htwjsldt.test1
+stratum+tcp://yescrypt.sea.mine.zpool.ca:6233
+username: DJkVG7iUyuYTJzjkHmxwi96dUBp4GE5ZEV
+password: c=DOGE
+
+
 
 
 done
